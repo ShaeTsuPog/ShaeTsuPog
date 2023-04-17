@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaeTsuPog
 - 👀 I’m interested in video games and programming.
-- 🌱 I’m currently learning Java, Lua, and Python.
+- 🌱 I’m currently learning C and Ruby.
 
 <!---
 ShaeTsuPog/ShaeTsuPog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
